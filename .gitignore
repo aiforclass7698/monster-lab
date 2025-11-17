@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Firebase secrets
+serviceAccountKey.json
+firebase-debug.log
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+
+# OS / VSCode
+.DS_Store
+.vscode/
